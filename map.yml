@@ -1,0 +1,4 @@
+map_name: world_war_ii_revised
+games:
+- {game_name: World War II Revised LHTR, file_name: lhtr.xml}
+- {game_name: World War II Revised, file_name: ww2v2.xml}
