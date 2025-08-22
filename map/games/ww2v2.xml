@@ -423,7 +423,6 @@
     <connection t1="62 Sea Zone" t2="Soviet Far East"/>
     <connection t1="63 Sea Zone" t2="64 Sea Zone"/>
     <connection t1="63 Sea Zone" t2="Alaska"/>
-    <connection t1="63 Sea Zone" t2="Western Canada"/>
     <connection t1="64 Sea Zone" t2="Alaska"/>
     <connection t1="64 Sea Zone" t2="Western Canada"/>
     <connection t1="Eastern Canada" t2="Eastern United States"/>
