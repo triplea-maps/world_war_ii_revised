@@ -109,7 +109,7 @@
     <territory name="12 Sea Zone" water="true"/>
     <territory name="32 Sea Zone" water="true"/>
     <territory name="46 Sea Zone" water="true"/>
-    <territory name=" Zone" water="true"/>
+    <territory name="63 Zone" water="true"/>
     <territory name="8 Sea Zone" water="true"/>
     <territory name="26 Sea Zone" water="true"/>
     <territory name="38 Sea Zone" water="true"/>
@@ -401,12 +401,12 @@
     <connection t1="55 Sea Zone" t2="Western United States"/>
     <connection t1="55 Sea Zone" t2="Western Canada"/>
     <connection t1="56 Sea Zone" t2="57 Sea Zone"/>
-    <connection t1="56 Sea Zone" t2=" Zone"/>
+    <connection t1="56 Sea Zone" t2="63 Sea Zone"/>
     <connection t1="56 Sea Zone" t2="64 Sea Zone"/>
     <connection t1="56 Sea Zone" t2="Midway"/>
     <connection t1="57 Sea Zone" t2="60 Sea Zone"/>
     <connection t1="57 Sea Zone" t2="62 Sea Zone"/>
-    <connection t1="57 Sea Zone" t2=" Zone"/>
+    <connection t1="57 Sea Zone" t2="63 Sea Zone"/>
     <connection t1="58 Sea Zone" t2="60 Sea Zone"/>
     <connection t1="58 Sea Zone" t2="Okinawa"/>
     <connection t1="59 Sea Zone" t2="60 Sea Zone"/>
@@ -418,7 +418,7 @@
     <connection t1="60 Sea Zone" t2="Buryatia S.S.R."/>
     <connection t1="61 Sea Zone" t2="Japan"/>
     <connection t1="61 Sea Zone" t2="Manchuria"/>
-    <connection t1="62 Sea Zone" t2=" Zone"/>
+    <connection t1="62 Sea Zone" t2="63 Sea Zone"/>
     <connection t1="62 Sea Zone" t2="Buryatia S.S.R."/>
     <connection t1="62 Sea Zone" t2="Soviet Far East"/>
     <connection t1="63 Sea Zone" t2="64 Sea Zone"/>
